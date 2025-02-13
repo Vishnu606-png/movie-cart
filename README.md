@@ -22,7 +22,7 @@ The **Movies App** is a React-based web application that allows users to browse 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movies-app.git
+   git clone https://github.com/Vishnu606-png/movie-cart.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -52,5 +52,5 @@ If you’d like to contribute, feel free to fork the repository and submit a pul
 
 ## Contact
 
-For any inquiries or feedback, reach out to [Your Email or GitHub Profile].
+For any inquiries or feedback, reach out to vishnupeteti219@gmail.com
 
